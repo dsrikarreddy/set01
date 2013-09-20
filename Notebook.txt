@@ -1,0 +1,26 @@
+Date   Who     Start  Stop  Interruptions Question TimeOnTask    Comments
+09/15  SRD     09:15  09:26                 1        11            Very Basic Problem
+09/15  SRD     09:27  09:35                 2        8            
+09/15  SRD     09:35  09:47                 3        12            
+09/15  SRD     09:48  10:01                 4        13
+09/15  SRD     10:10  10:16                 5        6            Very Basic Problem
+09/15  SRD     16:27  16:35                 6        12            
+09/15  SRD     16:36  16:41                 7        5            
+09/15  SRD     16:41  16:48                 8        7
+09/15  SRD     17:15  17:30                 9        15            
+09/15  SRD     17:32  17:43                 8        11
+            
+      
+    
+Total Time On Task Q1 (minutes)                  11 
+Total Time On Task Q2 (minutes)                  8 
+Total Time On Task Q3 (minutes)                  12
+Total Time On Task Q4 (minutes)                  13
+Total Time On Task Q5 (minutes)                  6
+Total Time On Task Q6 (minutes)                  12
+Total Time On Task Q7 (minutes)                  5
+Total Time On Task Q8 (minutes)                  7
+Total Time On Task Q9 (minutes)                  15
+Total Time On Task Q10 (minutes)                 11
+
+============committing to git: 09/20 12:21 ===================
